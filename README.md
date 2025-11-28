@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Karam! [desenvolver] 
 ##### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pellentesque nisi non purus sagittis posuere. Donec condimentum purus sit amet ex pharetra bibendum. Aliquam et placerat lacus. Nunc gravida quam a posuere gravida. Pellentesque metus orci, ultricies ut tortor non, convallis feugiat tortor. Sed vestibulum vulputate justo, nec cursus nulla pretium vel. Curabitur consectetur blandit eleifend. Vestibulum vitae purus in lectus venenatis convallis. Integer neque lacus, commodo ut dapibus finibus, congue eu libero. Suspendisse tempus efficitur odio non imperdiet. Integer sed dictum neque. In fringilla laoreet tellus. Integer eleifend fringilla est sed pellentesque. Nulla non augue non risus ornare facilisis.
 
-
-
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
 <!--
