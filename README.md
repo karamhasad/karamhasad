@@ -1,8 +1,10 @@
 ## Olá! Meu nome é Karam!
 Sou analista de dados junior com conhecimentos em Python (e nas bibliotecas Pandas, Numpy e Matplot), SQL, Power BI e Looker. 
 
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?logo=postgresql&logoColor=white)
 
 <!--
 **karamhasad/karamhasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
