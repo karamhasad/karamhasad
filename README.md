@@ -1,6 +1,5 @@
-## Olá! Meu nome é Karam! [desenvolver] 
-##### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pellentesque nisi non purus sagittis posuere. Donec condimentum purus sit amet ex pharetra bibendum. Aliquam et placerat lacus. Nunc gravida quam a posuere gravida. Pellentesque metus orci, ultricies ut tortor non, convallis feugiat tortor. Sed vestibulum vulputate justo, nec cursus nulla pretium vel. Curabitur consectetur blandit eleifend. Vestibulum vitae purus in lectus venenatis convallis. Integer neque lacus, commodo ut dapibus finibus, congue eu libero. Suspendisse tempus efficitur odio non imperdiet. Integer sed dictum neque. In fringilla laoreet tellus. Integer eleifend fringilla est sed pellentesque. Nulla non augue non risus ornare facilisis.
-
+## Olá! Meu nome é Karam!
+Sou analista de dados junior com conhecimentos em Python (e nas bibliotecas Pandas, Numpy e Matplot), SQL, Power BI e Looker. 
 
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
@@ -9,7 +8,11 @@
 **karamhasad/karamhasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?logo=postgresql&logoColor=white)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
