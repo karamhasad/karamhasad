@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Karam!
-Sou analista de dados junior com conhecimentos em Python (e nas bibliotecas Pandas, Numpy e Matplot), SQL, Power BI e Looker. 
+Sou ************* junior com conhecimentos em ************. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus justo ex, consequat non egestas vitae, ullamcorper eu velit. Cras non eros eros. Praesent a mollis mauris. Ut nisl ex, hendrerit a blandit et, sodales ac odio. Aliquam in odio id mi auctor dapibus. Phasellus pretium nisl risus, nec luctus nisi faucibus non. Suspendisse nulla velit, mattis gravida sem at, semper varius dolor. Donec non efficitur mi. Sed mattis odio quis metus pretium vulputate. Nulla tempor neque ante, non aliquam arcu condimentum nec.
 
