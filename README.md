@@ -83,7 +83,7 @@ The project covers:
 * Account security
 * Preventive security measures
 
-**Technologies:** HTML, CSS, Bootstrap, and JavaScript.
+**Technologies:** HTML, CSS and Bootstrap.
 
 ---
 
